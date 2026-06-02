@@ -1,0 +1,6 @@
+{
+  "name": "Employee Performance Dashboard",
+  "description": "A food manufacturing employee performance dashboard featuring live webhook data integrations, auto-cycling visual metrics, peer comparisons, and attendance auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
